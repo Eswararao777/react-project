@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "6a99",
+      "name": "KILLI ESWARA RAO",
+      "email": "killieswarar@gmail.com",
+      "phone": "+917396394498",
+      "password": "123456789"
+    },
+    {
+      "id": "d55f",
+      "name": "koti",
+      "email": "koti@gmail.com",
+      "phone": "234567890",
+      "password": "14369707"
+    },
+    {
+      "id": "f25c",
+      "name": "shiva",
+      "email": "shiva@gmail.com",
+      "phone": "9494545434",
+      "password": "54561"
+    },
+    {
+      "id": "50cf",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "7522752256",
+      "password": "12546"
+    },
+    {
+      "id": "d5f3",
+      "name": "ramu",
+      "email": "ramu@gmail.com",
+      "phone": "07522752256",
+      "password": "6576"
+    }
+  ]
+}

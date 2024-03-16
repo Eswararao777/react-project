@@ -1,0 +1,41 @@
+/* body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+} */
+
+
+h3{
+    position: relative;
+    text-align: center;
+    background-color: purple;
+    border-radius: 10px;
+    font-size: 50px;
+    color: transparent;
+    -webkit-text-fill-color: greenyellow;
+}
+
+.input{
+    position: relative;
+    left: 630px;
+    background-color: black;
+    color: aliceblue;
+    width: 300px;
+    height: 30px;
+    border-color: brown;
+    border-radius: 10px;
+    font-size: 28px;
+}
+
+.button{
+    position: relative;
+    top: 70px;
+    left: 420px;
+    width: 100px;
+    background-color: lawngreen;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}

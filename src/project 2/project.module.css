@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    background-color: bisque;
+    display: flex;
+    height: 65px;
+}
+
+.left{
+    flex-basis: 40%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 40px;
+    font-size: 27px;
+    color: palevioletred;
+
+}
+
+.right{
+    flex-basis: 60%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 40px;
+    gap: 25px;
+}
+
+.data{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+
+.data1{
+    width: 400px;
+    height: 450px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 0px black;
+    border-radius: 5px;
+}
+
+#link{
+    text-decoration: none;
+    color: green;
+
+}
+
+.navlink{
+    text-decoration: none;
+    font-size: 27px;
+    color: palevioletred;
+}
+
+.navlink:hover{
+    background-color: black;
+    
+}
+
+.gotoback{
+   text-decoration: none;
+   font-size: 25px;
+   position: relative;
+   color: green;
+}
+
+.gotoorder{
+    text-decoration: none;
+    font-size: 25px;
+    position: relative;
+    left: 70px;
+    color: green;
+}
+
+.container{
+   text-align: center;
+   padding-top: 50px;
+}
+
+.gotocheckout{
+    text-decoration: none;
+    color: green;
+    font-size: 25px;
+}
+
+button{
+    width: 30px;
+    height: 30px;
+    font-size: 23px;
+    align-content: center;
+    
+}
+
+.container1{
+    width: 400px;
+    height: 400px;
+    background-color: plum;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.submit{
+    position: relative;
+    left:60px;
+    width: 100px;
+    align-items: center;
+    font-size: 25px;
+    background-color: greenyellow;
+    color: black;
+}
